@@ -71,16 +71,14 @@ const explorers = [
 
    console.log("---------------------------------------")
    const queseadecdmx = explorers.find((cdmx) => cdmx.city === 'CDMX');
-  console.log("El que vive en la CDMX es el: " + queseadecdmx.name);
+   console.log("El que vive en la CDMX es el: " + queseadecdmx.name);
 
   console.log("Suma de  de ejercicios completos usando reduce")
   const sumaejercicioscompletos = explorers.reduce ((acumulador, valoractual) =>  acumulador + valoractual.exercises_completed, 0)
   console.log(sumaejercicioscompletos);
 
-
   const siestrueconsome = explorers.some((t)=> t.exercisesFinished || true)
   console.log("es:"  + siestrueconsome);
-
 
   const siestrueconevery = explorers.every((name) => name.isFinished || true)
   console.log("es:" + siestrueconevery);
