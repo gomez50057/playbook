@@ -10,4 +10,4 @@ Proyectos desarrollados en la semana 3:
 |`PR`|2|[Link al repo](https://github.com/gomez50057/fizzbuzz-)|
 |`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/gomez50057/Code-Challenge)|
 |`Trello`|6|No hay repo|
-|`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Trello JS Fork`|7|[Link al repo](https://github.com/gomez50057/trello?organization=gomez50057&organization=gomez50057)|
